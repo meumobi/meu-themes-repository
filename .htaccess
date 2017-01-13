@@ -1,0 +1,4 @@
+RewriteEngine On
+
+RewriteCond %{HTTP_HOST} !^meu-themes-repository.meumobi.com
+RewriteRule ^.*$ index.php [NC,L]
