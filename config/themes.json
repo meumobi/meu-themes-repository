@@ -19,5 +19,30 @@
       "/images/shared/themes/infomobi/thumbnail_1.png"
     ],
     "id": "infomobi"
+  },
+  {  
+    "assets":{},
+    "layout_alternatives":{  
+      "autoplay":true,
+      "footer":"ir",
+      "home":"headlines",
+      "nav":"nav-horizontal",
+      "navbar":"navbar-fixed"
+    },
+    "tokens":{  
+      "about":"About us",
+      "contact":"Contact",
+      "contact_panel1_title":"Use the form below to messages",
+      "contact_panel2_title":"Investors Service"
+    },
+    "colors":{  
+      "defaultBg":"#e52e2a"
+    },
+    "name": "rimobi",
+    "main_color":"e52e2a",
+    "thumbnails": [
+      "/images/shared/themes/rimobi/thumbnail_1.png"
+    ],
+    "id":"rimobi"
   }
 ]
